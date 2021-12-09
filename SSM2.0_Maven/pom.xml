@@ -11,7 +11,7 @@
 	<properties>
 		<spring.version>4.3.7.RELEASE</spring.version>
 		<aopalliance.version>1.0</aopalliance.version>
-		<jackson.version>2.8.8</jackson.version>
+		<jackson.version>2.9.10.8</jackson.version>
 
 		<mybatis.version>3.4.2</mybatis.version>
 		<mybatis.spring.version>1.3.1</mybatis.spring.version>
