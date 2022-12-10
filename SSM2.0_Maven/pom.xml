@@ -9,7 +9,7 @@
 	<name>SSM的maven版本</name>
 	<description>SSM的maven版本</description>
 	<properties>
-		<spring.version>4.3.7.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<aopalliance.version>1.0</aopalliance.version>
 		<jackson.version>2.8.8</jackson.version>
 
